@@ -1,1 +1,1 @@
-These are stock roms read by NomecOne
+These are stock roms read by NomecOne/BRO
